@@ -1,6 +1,6 @@
 {
     "name": "ra-language-belarusian",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Belarusian messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
     "main": "index.js",
     "repository": {
